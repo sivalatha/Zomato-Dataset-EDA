@@ -9,7 +9,7 @@ The csv file uploaded in this repository is Zomato Dataset collected from kaggle
 
 ## Data
 ### Fetching the data:
-• Data has been collected from the Zomato API in the form of .json files(raw data) using the url=https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20
+• Data has been collected from the Zomato API in the form of .json files(raw data) using the url=https://developers.zomato.com/api/v2.1/search?entity_id=1&entity_type=city&start=1&count=20 by the kaggle dataset provider.
 
 • Raw data can be seen here
 
